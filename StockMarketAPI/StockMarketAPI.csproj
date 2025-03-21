@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+	  <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Dapper" Version="2.1.66" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="8.0.13" />
+
+	  <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.1" />
+
+	  <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.0" />
+
+	  <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0.2" />
+
+	  <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.0" />
+
+	  <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.6.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataStore.Abstraction\DataStore.Abstraction.csproj" />
+    <ProjectReference Include="..\DataStore.Implementation\DataStore.Implementation.csproj" />
+    <ProjectReference Include="..\FeatureObjects.Abstraction\FeatureObjects.Abstraction.csproj" />
+    <ProjectReference Include="..\FeatureObjects.Implementation\FeatureObjects.Implementation.csproj" />
+    <ProjectReference Include="..\FeatureObjects.Infrastructure\FeatureObjects.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

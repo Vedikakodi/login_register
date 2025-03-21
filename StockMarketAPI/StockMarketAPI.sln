@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockMarketAPI", "StockMarketAPI.csproj", "{06507C8B-0597-44B6-A8A6-A8571503CEE5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataStore", "DataStore", "{17165176-A5E0-4681-A51D-706EFEA4F9F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStore.Abstraction", "..\DataStore.Abstraction\DataStore.Abstraction.csproj", "{6B55282F-BD5D-4F02-A0F0-7FAA2A02045D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FeatureObjects", "FeatureObjects", "{0695905B-9F2A-4B63-B4DC-886D3386EDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureObjects.Abstraction", "..\FeatureObjects.Abstraction\FeatureObjects.Abstraction.csproj", "{F2185D62-BB46-46D5-A10B-8C50A116872A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStore.Implementation", "..\DataStore.Implementation\DataStore.Implementation.csproj", "{86E79CF4-FD88-492F-A8F0-3E2C8D7310DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureObjects.Implementation", "..\FeatureObjects.Implementation\FeatureObjects.Implementation.csproj", "{4AEFF566-7EB8-4116-B5D6-E896D4BA5748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureObjects.Infrastructure", "..\FeatureObjects.Infrastructure\FeatureObjects.Infrastructure.csproj", "{9AAFAF4D-060F-4E77-BC04-5305FA86B733}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06507C8B-0597-44B6-A8A6-A8571503CEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06507C8B-0597-44B6-A8A6-A8571503CEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06507C8B-0597-44B6-A8A6-A8571503CEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06507C8B-0597-44B6-A8A6-A8571503CEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B55282F-BD5D-4F02-A0F0-7FAA2A02045D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B55282F-BD5D-4F02-A0F0-7FAA2A02045D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B55282F-BD5D-4F02-A0F0-7FAA2A02045D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B55282F-BD5D-4F02-A0F0-7FAA2A02045D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2185D62-BB46-46D5-A10B-8C50A116872A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2185D62-BB46-46D5-A10B-8C50A116872A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2185D62-BB46-46D5-A10B-8C50A116872A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2185D62-BB46-46D5-A10B-8C50A116872A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E79CF4-FD88-492F-A8F0-3E2C8D7310DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E79CF4-FD88-492F-A8F0-3E2C8D7310DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E79CF4-FD88-492F-A8F0-3E2C8D7310DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E79CF4-FD88-492F-A8F0-3E2C8D7310DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEFF566-7EB8-4116-B5D6-E896D4BA5748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEFF566-7EB8-4116-B5D6-E896D4BA5748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEFF566-7EB8-4116-B5D6-E896D4BA5748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEFF566-7EB8-4116-B5D6-E896D4BA5748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AAFAF4D-060F-4E77-BC04-5305FA86B733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AAFAF4D-060F-4E77-BC04-5305FA86B733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AAFAF4D-060F-4E77-BC04-5305FA86B733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AAFAF4D-060F-4E77-BC04-5305FA86B733}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B55282F-BD5D-4F02-A0F0-7FAA2A02045D} = {17165176-A5E0-4681-A51D-706EFEA4F9F5}
+		{F2185D62-BB46-46D5-A10B-8C50A116872A} = {0695905B-9F2A-4B63-B4DC-886D3386EDCF}
+		{86E79CF4-FD88-492F-A8F0-3E2C8D7310DB} = {17165176-A5E0-4681-A51D-706EFEA4F9F5}
+		{4AEFF566-7EB8-4116-B5D6-E896D4BA5748} = {0695905B-9F2A-4B63-B4DC-886D3386EDCF}
+		{9AAFAF4D-060F-4E77-BC04-5305FA86B733} = {0695905B-9F2A-4B63-B4DC-886D3386EDCF}
+	EndGlobalSection
+EndGlobal
