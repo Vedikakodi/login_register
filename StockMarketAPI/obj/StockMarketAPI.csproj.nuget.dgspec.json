@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\StockMarketAPI\\StockMarketAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj",
+        "projectName": "DataStore.Abstraction",
+        "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Implementation\\DataStore.Implementation.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Implementation\\DataStore.Implementation.csproj",
+        "projectName": "DataStore.Implementation",
+        "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Implementation\\DataStore.Implementation.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj",
+        "projectName": "FeatureObjects.Abstraction",
+        "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Implementation\\FeatureObjects.Implementation.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Implementation\\FeatureObjects.Implementation.csproj",
+        "projectName": "FeatureObjects.Implementation",
+        "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Implementation\\FeatureObjects.Implementation.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj"
+              },
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Infrastructure\\FeatureObjects.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Infrastructure\\FeatureObjects.Infrastructure.csproj",
+        "projectName": "FeatureObjects.Infrastructure",
+        "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Infrastructure\\FeatureObjects.Infrastructure.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\StockMarketAPI\\StockMarketAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\StockMarketAPI\\StockMarketAPI.csproj",
+        "projectName": "StockMarketAPI",
+        "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\StockMarketAPI\\StockMarketAPI.csproj",
+        "packagesPath": "C:\\Users\\VedikaKN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\StockMarketAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VedikaKN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Abstraction\\DataStore.Abstraction.csproj"
+              },
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Implementation\\DataStore.Implementation.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\DataStore.Implementation\\DataStore.Implementation.csproj"
+              },
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Abstraction\\FeatureObjects.Abstraction.csproj"
+              },
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Implementation\\FeatureObjects.Implementation.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Implementation\\FeatureObjects.Implementation.csproj"
+              },
+              "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Infrastructure\\FeatureObjects.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\VedikaKN\\Documents\\Vedika\\COPY\\STOCKMARKET\\StockMarketBackend2\\FeatureObjects.Infrastructure\\FeatureObjects.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GpFpPqg18lixW1FR4lA4HwjUhrHWJzlDQOizmKd/O8E=",
+  "Source": "StockMarketAPI",
+  "BasePath": "_content/StockMarketAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
