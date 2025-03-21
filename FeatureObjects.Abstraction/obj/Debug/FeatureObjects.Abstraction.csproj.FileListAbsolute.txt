@@ -1,0 +1,6 @@
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Abstraction\bin\Debug\FeatureObjects.Abstraction.dll
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Abstraction\bin\Debug\FeatureObjects.Abstraction.pdb
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Abstraction\obj\Debug\FeatureObjects.Abstraction.csproj.AssemblyReference.cache
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Abstraction\obj\Debug\FeatureObjects.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Abstraction\obj\Debug\FeatureObjects.Abstraction.dll
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Abstraction\obj\Debug\FeatureObjects.Abstraction.pdb
