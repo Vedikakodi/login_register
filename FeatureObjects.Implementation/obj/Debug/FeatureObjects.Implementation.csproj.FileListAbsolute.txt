@@ -1,0 +1,11 @@
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\bin\Debug\FeatureObjects.Implementation.dll
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\bin\Debug\FeatureObjects.Implementation.pdb
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\bin\Debug\DataStore.Abstraction.dll
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\bin\Debug\FeatureObjects.Abstraction.dll
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\bin\Debug\DataStore.Abstraction.pdb
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\bin\Debug\FeatureObjects.Abstraction.pdb
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\obj\Debug\FeatureObjects.Implementation.csproj.AssemblyReference.cache
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\obj\Debug\FeatureObjects.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\obj\Debug\FeatureO.8774B252.Up2Date
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\obj\Debug\FeatureObjects.Implementation.dll
+C:\Users\VedikaKN\Documents\Vedika\PROJECT\StockMarket\StockMarketBackend\FeatureObjects.Implementation\obj\Debug\FeatureObjects.Implementation.pdb
